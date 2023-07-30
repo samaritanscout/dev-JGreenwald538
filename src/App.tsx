@@ -2,7 +2,7 @@ import "./styles.css";
 import arrow from "./assets/arrow.png";
 // import heartNotFilled from "./assets/heartNotFilled.png";
 // import heartFilled from "./assets/heartFilled.png";
-import logo from "./assets/logo.jpg";
+// import logo from "./assets/logo.jpg";
 import Text from "./Text";
 import Button from "./Button";
 import data from "./assets/dummyData.json";
