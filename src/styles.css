@@ -1,0 +1,104 @@
+.box {
+    width: 714px;
+    height: 155px;
+    background-color: #62b16e;
+    position: relative;
+    box-sizing: border-box;
+    margin: 0 25%;
+    padding: auto;
+    top: 30%;
+    border-radius: 29px;
+}
+
+.css-fix {
+    white-space: pre-wrap;
+}
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.box p {
+    font-family: arial, HelveticaNeue-light, helvetica;
+    color: #0f140e;
+    margin: 5px 0 0 20px;
+    font-size: 12px;
+    width: fit-content;
+}
+
+.box a {
+    color: inherit;
+}
+
+.box a:hover {
+    color: inherit;
+}
+
+#header {
+    font-size: 20px !important;
+    color: #273225 !important;
+    padding-bottom: -20px;
+}
+
+#header:hover {
+    color: #7d847c !important;
+}
+
+
+.box p:hover {
+    color: #6f726e !important;
+}
+
+
+.logo {
+    height: 80%;
+    position: absolute;
+    top: 10%;
+    right: 5%;
+}
+
+#expandButtonImg {
+    height: 4vh;
+}
+
+button {
+    background: none;
+    border: none;
+    position: absolute;
+}
+#expandButton {
+    bottom: 0;
+    left: 45%;
+}
+
+.visible {
+    font-size: 0px !important;
+}
+
+#heartButtonImg {
+    height: 3vh;
+}
+
+#heartButton {
+    left: 45%;
+    top: 5%;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+@keyframes boxBigger {
+    0% {
+        width: 714px;
+        height: 155px;
+    }
+
+    100% {
+        width: 714px;
+        height: 300px;
+    }
+}
