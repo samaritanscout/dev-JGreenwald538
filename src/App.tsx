@@ -1,15 +1,16 @@
-import "./assets/styles.css";
+import "./styles.css";
 import arrow from "./assets/arrow.png";
 // import heartNotFilled from "./assets/heartNotFilled.png";
 // import heartFilled from "./assets/heartFilled.png";
 // import logo from "./assets/logo.jpg";
-import Text from "./components/Text";
-import Button from "./components/Button";
+import Text from "./Text.tsx";
+import Button from "./Button.tsx";
 import data from "./assets/dummyData.json";
 import { useImmer } from 'use-immer'
 import * as dayjs from 'dayjs';
 import * as customParseFormat from 'dayjs/plugin/customParseFormat';
 import * as advancedFormat from 'dayjs/plugin/advancedFormat';
+import React from "react";
 dayjs.extend(customParseFormat)
 dayjs.extend(advancedFormat)
 
