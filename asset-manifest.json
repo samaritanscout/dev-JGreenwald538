@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/dev-JGreenwald538/static/css/main.d3f99423.css",
-    "main.js": "/dev-JGreenwald538/static/js/main.99249741.js",
-    "static/js/787.07f75a45.chunk.js": "/dev-JGreenwald538/static/js/787.07f75a45.chunk.js",
-    "static/media/arrow.png": "/dev-JGreenwald538/static/media/arrow.18a03d8d09b2ea96d873.png",
+    "main.css": "/dev-JGreenwald538/static/css/main.b17f0a33.css",
+    "main.js": "/dev-JGreenwald538/static/js/main.b50544d0.js",
     "index.html": "/dev-JGreenwald538/index.html",
-    "main.d3f99423.css.map": "/dev-JGreenwald538/static/css/main.d3f99423.css.map",
-    "main.99249741.js.map": "/dev-JGreenwald538/static/js/main.99249741.js.map",
-    "787.07f75a45.chunk.js.map": "/dev-JGreenwald538/static/js/787.07f75a45.chunk.js.map"
+    "main.b17f0a33.css.map": "/dev-JGreenwald538/static/css/main.b17f0a33.css.map",
+    "main.b50544d0.js.map": "/dev-JGreenwald538/static/js/main.b50544d0.js.map"
   },
   "entrypoints": [
-    "static/css/main.d3f99423.css",
-    "static/js/main.99249741.js"
+    "static/css/main.b17f0a33.css",
+    "static/js/main.b50544d0.js"
   ]
 }
