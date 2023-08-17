@@ -15,10 +15,12 @@
         "zip" : "",
         "state" : "", 
         "country" : "", 
+        "city" : "",
         "latitude": 41.878113,
         "longitude": -87.629799,
         "link" : "https://akeboss-tech.github.io/samaritan-scout/about.html#page-top",
-        "image" : "helloworld.img"
+        "image" : "helloworld.img",
+        "description": "somethinng"
     },
 
     {
@@ -36,10 +38,12 @@
         "zip" : "",
         "state" : "", 
         "country" : "", 
+        "city" : "",
         "latitude": 41.878113,
         "longitude": -87.629799,
         "link" : "https://akeboss-tech.github.io/samaritan-scout/about.html#page-top",
-        "image" : "helloworld.img"
+        "image" : "helloworld.img",
+        "description": "somethinng"
     },
 
     {
@@ -50,11 +54,17 @@
         "skills" : ["interpersonal", "education"], 
         "timeStart" : "2022-04-17T15:30",
         "timeFinish": "2022-04-17T15:30",
+        "streetAddress" : "",
+        "zip" : "",
+        "state" : "", 
+        "country" : "", 
+        "city" : "",
         "age": 20,
         "locType": ["hybrid", "inperson"],
         "latitude": 41.878113,
         "longitude": -87.629799,
-        "link" : "https://akeboss-tech.github.io/samaritan-scout/about.html#page-top"
+        "link" : "https://akeboss-tech.github.io/samaritan-scout/about.html#page-top",
+        "description": "somethinng"
     },
 
     {
@@ -72,10 +82,12 @@
         "zip" : "",
         "state" : "", 
         "country" : "", 
+        "city" : "",
         "latitude": 41.878113,
         "longitude": -87.629799,
         "link" : "https://akeboss-tech.github.io/samaritan-scout/about.html#page-top",
-        "image" : "helloworld.img"
+        "image" : "helloworld.img",
+        "description": "somethinng"
     },
 
     {
@@ -93,10 +105,12 @@
         "zip" : "",
         "state" : "", 
         "country" : "", 
+        "city" : "",
         "latitude": 41.878113,
         "longitude": -87.629799,
         "link" : "https://akeboss-tech.github.io/samaritan-scout/about.html#page-top",
-        "image" : "helloworld.img"
+        "image" : "helloworld.img",
+        "description": "somethinng"
     },
 
     {
@@ -114,10 +128,12 @@
         "zip" : "",
         "state" : "", 
         "country" : "", 
+        "city" : "",
         "latitude": 41.878113,
         "longitude": -87.629799,
         "link" : "https://akeboss-tech.github.io/samaritan-scout/about.html#page-top",
-        "image" : "helloworld.img"
+        "image" : "helloworld.img",
+        "description": "somethinng"
         },
 
     {
@@ -135,10 +151,12 @@
         "zip" : "",
         "state" : "", 
         "country" : "", 
+        "city" : "", 
         "latitude": 41.878113,
         "longitude": -87.629799,
         "link" : "https://akeboss-tech.github.io/samaritan-scout/about.html#page-top",
-        "image" : "helloworld.img"
+        "image" : "helloworld.img",
+        "description": "somethinng"
     },
 
     {
@@ -156,10 +174,12 @@
         "zip" : "",
         "state" : "", 
         "country" : "", 
+        "city" : "",
         "latitude": 41.878113,
         "longitude": -87.629799,
         "link" : "https://akeboss-tech.github.io/samaritan-scout/about.html#page-top",
-        "image" : "helloworld.img"
+        "image" : "helloworld.img",
+        "description": "somethinng"
     },
 
     {
@@ -177,10 +197,12 @@
         "zip" : "",
         "state" : "", 
         "country" : "", 
+        "city" : "", 
         "latitude": 41.878113,
         "longitude": -87.629799,
         "link" : "https://akeboss-tech.github.io/samaritan-scout/about.html#page-top",
-        "image" : "helloworld.img"
+        "image" : "helloworld.img",
+        "description": "somethinng"
     },
 
     {
@@ -198,10 +220,12 @@
         "zip" : "",
         "state" : "", 
         "country" : "", 
+        "city" : "",
         "latitude": 41.878113,
         "longitude": -87.629799,
         "link" : "https://akeboss-tech.github.io/samaritan-scout/about.html#page-top",
-        "image" : "helloworld.img"
+        "image" : "helloworld.img",
+        "description": "somethinng"
     },
 
     {
@@ -214,15 +238,17 @@
         "timeFinish": "2022-04-17T15:30",
         "postDate" : "",
         "age": 20,
-        "locType": ["hybrid", "inperson", "remote"],
+        "locType": ["hybrid", "remote"],
         "streetAddress" : "",
         "zip" : "",
         "state" : "", 
         "country" : "", 
+        "city" : "",
         "latitude": 41.878113,
         "longitude": -87.629799,
         "link" : "https://akeboss-tech.github.io/samaritan-scout/about.html#page-top",
-        "image" : "helloworld.img"
+        "image" : "helloworld.img",
+        "description": "somethinng"
     },
 
     {
@@ -240,10 +266,12 @@
         "zip" : "",
         "state" : "", 
         "country" : "", 
+        "city" : "", 
         "latitude": 41.878113,
         "longitude": -87.629799,
         "link" : "https://akeboss-tech.github.io/samaritan-scout/about.html#page-top",
-        "image" : "helloworld.img"
+        "image" : "helloworld.img",
+        "description": "somethinng"
     },
 
     {   "id" : 13,
@@ -260,10 +288,12 @@
         "zip" : "",
         "state" : "", 
         "country" : "", 
+        "city" : "", 
         "latitude": 41.878113,
         "longitude": -87.629799,
         "link" : "https://akeboss-tech.github.io/samaritan-scout/about.html#page-top",
-        "image" : "helloworld.img"
+        "image" : "helloworld.img",
+        "description": "somethinng"
     },
 
     {
@@ -281,10 +311,12 @@
         "zip" : "",
         "state" : "", 
         "country" : "", 
+        "city" : "",
         "latitude": 41.878113,
         "longitude": -87.629799,
         "link" : "https://akeboss-tech.github.io/samaritan-scout/about.html#page-top",
-        "image" : "helloworld.img"
+        "image" : "helloworld.img",
+        "description": "somethinng"
     },
 
     {
@@ -302,10 +334,56 @@
         "zip" : "",
         "state" : "", 
         "country" : "", 
+        "city" : "", 
         "latitude": 41.878113,
         "longitude": -87.629799,
         "link" : "https://akeboss-tech.github.io/samaritan-scout/about.html#page-top",
-        "image" : "helloworld.img"
+        "image" : "helloworld.img",
+        "description": "somethinng"
+    },
+    {
+        "id" : 16,
+        "organization" : "User Typed Input",
+        "eventName" : "User Typed Input",
+        "causes" : ["children", "disability", "education"],
+        "skills" : ["interpersonal", "education"], 
+        "timeStart" : null,
+        "timeFinish": null,
+        "postDate" : "",
+        "age": 20,
+        "locType": ["hybrid", "inperson", "remote"],
+        "streetAddress" : "",
+        "zip" : "",
+        "state" : "", 
+        "country" : "", 
+        "city" : "",
+        "latitude": 41.878113,
+        "longitude": -87.629799,
+        "link" : "https://akeboss-tech.github.io/samaritan-scout/about.html#page-top",
+        "image" : "helloworld.img",
+        "description": "somethinng"
+    },
+    {
+        "id" : 17,
+        "organization" : "User Typed Input",
+        "eventName" : null,
+        "causes" : ["children", "disability", "education"],
+        "skills" : ["interpersonal", "education"], 
+        "timeStart" : null,
+        "timeFinish": null,
+        "postDate" : "",
+        "age": 20,
+        "locType": ["hybrid", "inperson", "remote"],
+        "streetAddress" : "",
+        "zip" : "",
+        "state" : "", 
+        "country" : "", 
+        "city" : "", 
+        "latitude": 41.878113,
+        "longitude": -87.629799,
+        "link" : "https://akeboss-tech.github.io/samaritan-scout/about.html#page-top",
+        "image" : "helloworld.img",
+        "description": "somethinng"
     }
 ]
 
